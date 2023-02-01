@@ -13,7 +13,7 @@ creating tables
 | USA      | The country well known for its IT hub                                   |
 
 | COUNTRY | RECOMMENDATION | NO_OF_DAYS  |
-| :---    | :---            | :---       |
+| :---    | ---:---            | :---       |
 | India   | Rich culture    | 20         |
 | France  | Fashion city    | 13         |
 | Italy   | Architecture    | 15         |
@@ -35,7 +35,7 @@ creating tables
 
  How to auto create/delete many third-party accounts?
 
- link of the link : https://webapps.stackexchange.com/questions/tagged/saas
+ >link of the link : https://webapps.stackexchange.com/questions/tagged/saas
 
 ```
 $o-grid-default-config: (
@@ -58,5 +58,4 @@ $o-grid-default-config: (
 ```
 
 snippets link is : https://stackoverflow.com/questions/tagged/saas
-
 
