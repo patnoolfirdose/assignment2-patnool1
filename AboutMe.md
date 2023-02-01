@@ -13,7 +13,7 @@ creating tables
 | USA      | The country well known for its IT hub                                   |
 
 | COUNTRY | RECOMMENDATION | NO_OF_DAYS  |
-| :---    | ---:---            | :---       |
+| :---    | :---            | :---       |
 | India   | Rich culture    | 20         |
 | France  | Fashion city    | 13         |
 | Italy   | Architecture    | 15         |
