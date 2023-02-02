@@ -4,7 +4,7 @@
 Playing badminton regularly can help **strengthen the heart** muscle and limit the risk of blood vessels clogging, reducing your **risk of CHD**. It also counts as a moderate-intensity activity, so it's a great way to get some of your recommended minimum 150 minutes a week.
 
 ---
-Indian Badminton Team
+# Indian Badminton Team
 
 ###### ordered list of best badminton in india
 1. PV Sindhu
@@ -17,7 +17,7 @@ Indian Badminton Team
 
 
 [linking to AboutMe](AboutMe.md)<br>
-creating tables 
+# creating tables 
 
 | Country  | Paragraph                                                              |
 | ---      | ---                                                                    |
@@ -41,7 +41,7 @@ creating tables
 >food is an important part of diet- *crimson*<br>
 
  ---
- code fencing
+ # code fencing
 
  How to auto create/delete many third-party accounts?
 
