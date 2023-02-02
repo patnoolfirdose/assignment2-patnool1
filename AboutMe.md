@@ -57,5 +57,5 @@ $o-grid-default-config: (
 
 ```
 
-snippets link is : https://stackoverflow.com/questions/tagged/saas
+snippets link is : https://css-tricks.com/snippets/sass/deep-getset-maps/
 
