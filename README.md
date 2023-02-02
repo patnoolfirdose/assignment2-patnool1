@@ -22,12 +22,12 @@ Playing badminton regularly can help **strengthen the heart** muscle and limit t
 
 # creating tables 
 
-| Country  | Paragraph                                                              |
-| ---      | ---                                                                    |
-| India    | India we can see unity in diversity,we can experience diffrent culutre |
-| France   | The country is well known for fashion and world largest eiffel tower|
-| Italy    | The country very beautiful architecture, they introduced pizza to world|
-| USA      | The country well known for its IT hub                                   |
+                                                            
+                                                                   
+ India     India we can see unity in diversity,we can experience diffrent culutre 
+ France    The country is well known for fashion and world largest eiffel tower
+ Italy     The country very beautiful architecture, they introduced pizza to world|
+ USA       The country well known for its IT hub                                   
 
 | COUNTRY | RECOMMENDATION | NO_OF_DAYS  |
 | :---    | :---            | :---       |
