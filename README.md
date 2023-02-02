@@ -17,6 +17,9 @@ Playing badminton regularly can help **strengthen the heart** muscle and limit t
 
 
 [linking to AboutMe](AboutMe.md)<br>
+
+---
+
 # creating tables 
 
 | Country  | Paragraph                                                              |
