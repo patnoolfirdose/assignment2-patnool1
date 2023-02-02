@@ -35,7 +35,7 @@ creating tables
 
  How to auto create/delete many third-party accounts?
 
- >link of the link : https://webapps.stackexchange.com/questions/tagged/saas
+ >link of the link : https://stackoverflow.com/questions/66003935/how-to-use-map-deep-get-in-sass
 
 ```
 $o-grid-default-config: (
