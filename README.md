@@ -42,7 +42,9 @@ Playing badminton regularly can help **strengthen the heart** muscle and limit t
 # Pithy Quotes 
 
 > All my life i thought air was free until i bought a bag of chips-*Anne besant*<br>
+
 >Be strong i whispered to my wifi-*jhon thomson*<br>
+
 >food is an important part of diet- *crimson*<br>
 
  ---
